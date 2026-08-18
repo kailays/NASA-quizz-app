@@ -1,4 +1,4 @@
-import java.util.scannwr;
+import java.util.scanner;
 
 public class NasaQuizzApp {
 

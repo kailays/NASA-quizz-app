@@ -7,7 +7,6 @@ I have added a new release in which there is a JAR file which you can download a
 To download the installer you can get it from the Oracle website: https://www.oracle.com/java/technologies/downloads/
 
 To run the app Download the Stardance-Challenge.jar file from the GitHub Release onto your computer. Open that folder in which you have downloaded that jar file and from that right click and click on open in terminal and type 
-
 "java -jar Stardance-Challenge.jar"
 
 If you want to run or modify the raw source code manually without an executable JAR Open your terminal inside the folder containing your source files. Compile the Java source code file

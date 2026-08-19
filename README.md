@@ -29,6 +29,7 @@ To start the application:
 
 java -jar 
 Stardance-Challenge.jar
+
 5. Press Enter, and the quiz should start.
 
 Using the Source Code

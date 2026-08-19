@@ -27,8 +27,8 @@ To start the application:
 3. Open a terminal in that folder by right-clicking inside the folder and choosing Open in Terminal.
 4. Enter this command:
 
-java -jar Stardance-Challenge.jar
-
+java -jar 
+Stardance-Challenge.jar
 5. Press Enter, and the quiz should start.
 
 Using the Source Code

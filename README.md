@@ -16,6 +16,11 @@ https://www.oracle.com/java/technologies/downloads/
 
 Launching the JAR Version
 
+javac NasaQuizApp.java
+Then run the compiled application
+
+java NasaQuizApp
+Thank you for testing my app out.
 To start the application:
 
 1. Download "Stardance-Challenge.jar" from the GitHub Release.

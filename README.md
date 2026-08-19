@@ -1,22 +1,22 @@
 STARDANCE QUIZZ APP
 
-Stardance-Challenge — Java Quiz App
+A simple Quizz app to test your knowledge! The feature aren't that much it is simple like it gives you the question and if you get it right it increases a point and will show you your total points after answering that question.
 
-Test your knowledge with this lightweight Java-based quiz application! The app is intentionally simple: it presents questions one at a time, checks your answers, and awards one point for every correct response. Your current score is displayed as you progress through the quiz.
+I have added a new release in which there is a JAR file which you can download and test the app by yourself. This app is fully published and you can access it in my GitHub Release. To run the app, you should have a Java Runtime Environment installed on your computer or it will not work.
 
-Latest Release
+To download the installer you can get it from the Oracle website: https://www.oracle.com/java/technologies/downloads/
 
-A new release is now available with a ready-to-use JAR executable. You can download it from the GitHub Releases section and try the application without manually compiling the source code.
+To run the app Download the Stardance-Challenge.jar file from the GitHub Release onto your computer. Open that folder in which you have downloaded that jar file and from that right click and click on open in terminal and type 
 
-Before launching the application, make sure Java Runtime Environment (JRE) is installed on your computer. The JAR file requires Java to run.
+"java -jar Stardance-Challenge.jar"
 
-You can download Java from the official Oracle website:
+If you want to run or modify the raw source code manually without an executable JAR Open your terminal inside the folder containing your source files. Compile the Java source code file
 
-https://www.oracle.com/java/technologies/downloads/
+javac NasaQuizzApp.java
+Then run the compiled application
 
-Launching the JAR Version
-
-javac NasaQuizApp.java
+java NasaQuizzApp
+Thank you for testing my app out.
 Then run the compiled application
 
 java NasaQuizApp
